@@ -60,22 +60,6 @@ body{
     transition: 1s linear;
 }
 
-.third_article{
-    position: absolute;
-    left: -210px;
-    top: 250px;
-    background-color: rgba(214, 154, 95, 0.889);
-    border: 2px solid rgb(210, 104, 17);
-    border-radius: 20px;
-    text-decoration: none;
-    padding: 2px;
-}
-
-.third_article:hover{
-    transform: translateX(206px);
-    transition: 1s linear;
-}
-
 .add{
     position: fixed;
     bottom: 0px;
@@ -272,10 +256,6 @@ html{
 }
 
 .i_dont_know2{
-    font-size: 40px;
-}
-
-.i_dont_know3{
     font-size: 40px;
 }
 
